@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=laravel" width="32px" alt="Laravel" />
   </a>
   <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=codeigniter&sort=">
-    <img src="https://raw.githubusercontent.com/Jeyson-Sr/Portafolio/refs/heads/main/src/assets/icons/codeigniter.svg" width="32px" alt="CodeIgniter" />
+    <img src="https://raw.githubusercontent.com/Jeyson-Sr/Portafolio/refs/heads/main/src/assets/icons/codeigniter.svg" width="35px" alt="CodeIgniter" />
   </a>
   <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=tailwind&sort=">
     <img src="https://skillicons.dev/icons?i=tailwind" width="32px" alt="Tailwind CSS" />
