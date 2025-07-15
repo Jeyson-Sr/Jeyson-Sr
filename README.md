@@ -20,11 +20,35 @@
 
 <h2><strong>💡 My Languages :</strong> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 <p align="center">
-  <a href="https://github.com/Jeyson-Sr">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,react,nodejs,php,laravel,tailwind,mysql,mongodb" />
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=javascript&sort=">
+    <img src="https://skillicons.dev/icons?i=javascript" width="32px" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=ts&sort=">
+    <img src="https://skillicons.dev/icons?i=ts" width="32px" alt="TypeScript" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=reactjs&sort=">
+    <img src="https://skillicons.dev/icons?i=react" width="32px" alt="React" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=nodejs&sort=">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="32px" alt="Node.js" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=php&sort=">
+    <img src="https://skillicons.dev/icons?i=php" width="32px" alt="PHP" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=laravel&sort=">
+    <img src="https://skillicons.dev/icons?i=laravel" width="32px" alt="Laravel" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=codeigniter&sort=">
+    <img src="https://raw.githubusercontent.com/Jeyson-Sr/Portafolio/refs/heads/main/src/assets/icons/codeigniter.svg" width="32px" alt="CodeIgniter" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=tailwind&sort=">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="32px" alt="Tailwind CSS" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=mysql&sort=">
+    <img src="https://skillicons.dev/icons?i=mysql" width="32px" alt="MySQL" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=mongodb&sort=">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="32px" alt="MongoDB" />
   </a>
 </p>
-
-
-
 </div>
