@@ -1,7 +1,4 @@
-**¡Hola Jhosep!**
-Aquí tienes una propuesta de README único, moderno y con las skills de tu CV. Estilo minimalista, emojis e interactividad ligera:
 
-```md
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-username/main/header.svg" alt="header image" width="600"/>
 </p>
