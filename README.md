@@ -23,11 +23,11 @@
   <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=javascript&sort=">
     <img src="https://skillicons.dev/icons?i=javascript" width="32px" alt="JavaScript" />
   </a>
-  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=php&sort=">
-    <img src="https://skillicons.dev/icons?i=php" width="32px" alt="PHP" />
-  </a>
   <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=ts&sort=">
     <img src="https://skillicons.dev/icons?i=ts" width="32px" alt="TypeScript" />
+  </a>
+  <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=php&sort=">
+    <img src="https://skillicons.dev/icons?i=php" width="32px" alt="PHP" />
   </a>
   <a href="https://github.com/Jeyson-Sr?tab=repositories&q=&type=&language=reactjs&sort=">
     <img src="https://skillicons.dev/icons?i=react" width="32px" alt="React" />
